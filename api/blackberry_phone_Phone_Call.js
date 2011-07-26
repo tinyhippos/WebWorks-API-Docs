@@ -24,7 +24,7 @@ blackberry.phone.Phone.Call = { };
 
 /**
 * Determines whether or not the current call is being held. 
-* @returns {Boolean} Returns true if there the call is on hold.
+* @returns {Boolean} Returns true if there is a call on hold.
 * @BB50+
 * @example
 * &lt;script type=&quot;text/javascript&quot;&gt;
